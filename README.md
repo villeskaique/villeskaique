@@ -4,13 +4,6 @@
 - 📚 Sempre estudando novas tecnologias e boas práticas  
 - 🚀 Buscando sempre evoluir no desenvolvimento backend e desktop
 
-## 🌐 Entre em contato comigo
-<p>
-  <a href="mailto:villeskaiquel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
 ## 🛠️ Linguagens e Ferramentas
 
 <div align="center">
@@ -56,4 +49,11 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=villeskaique&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villeskaique&layout=compact&theme=github_dark"/>
+</p>
+
+## 🌐 Entre em contato comigo
+<p>
+  <a href="mailto:villeskaiquel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
