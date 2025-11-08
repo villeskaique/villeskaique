@@ -1,4 +1,4 @@
-<img src="https://github.com/villeskaique/villeskaique/blob/main/github-header-banner.png"/>
+<img src="https://github.com/villeskaique/villeskaique/blob/main/banner.png"/>
 
 ## 🚀 Sobre mim
 - 📚 Sempre estudando novas tecnologias e boas práticas  
